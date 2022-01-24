@@ -1,0 +1,69 @@
+html  {
+    background-image: url(https://t3.ftcdn.net/jpg/01/52/39/20/360_F_152392092_LfBIbW6n0wKt8IMgWS55ScBY51LVybl9.jpg);
+}
+
+h1 {
+    color: wheat;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 20px;
+    width: 1120px; 
+    text-align: center;
+    background: rgba(8, 0, 0, 0.4);
+    box-shadow: 0px 4px 16px rgba(0,0,0,0.5);
+}
+
+a {color: wheat;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 20px;
+    width: 1000px; 
+    text-align: center;
+    background: rgba(25, 160, 153, 0.7);
+    box-shadow: 0px 4px 16px rgba(0,0,0,0.5);
+}
+
+form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(244, 244, 244);
+    margin: auto;
+    padding:20px;
+    width: 1120px; 
+    text-align: center;
+    background-color: rgba(25, 160, 153, 0.7);
+    font-size: 0.9cm;
+    border: 2px;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+
+th {
+    color: rgb(10, 3, 3);
+    background-color: #e0d2d1;
+    border-radius: 30px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    color: wheat;
+    background-color: rgba(204, 42, 13, 0.6);
+    border: 2px solid rgb(13, 161, 206);
+    border-radius: 50px;    
+    font-family: 'Century Gothic';
+    font-size: 35px;
+    transition: background-color 1s;
+
+} 
+
+button:hover {
+    background-color: rgba(25, 160, 153, 0.6);
+    color: black;
+}
